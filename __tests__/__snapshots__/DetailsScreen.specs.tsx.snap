@@ -1,0 +1,118 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Details Screen  Details Screeen render correctly 1`] = `
+<View
+  style={
+    Array [
+      undefined,
+      undefined,
+      Object {},
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        undefined,
+        Object {},
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          undefined,
+          Array [
+            undefined,
+            undefined,
+          ],
+        ]
+      }
+    >
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <Icon
+          color="#012A58"
+          name="arrowleft"
+          size={24}
+        />
+      </View>
+      <Text
+        style={
+          Array [
+            undefined,
+            Object {},
+          ]
+        }
+      />
+    </View>
+  </View>
+  <View>
+    <Text>
+      Personal Information
+    </Text>
+    <View>
+      <Text>
+        Full Name
+      </Text>
+      <Text>
+        Vinh Le
+      </Text>
+    </View>
+    <View>
+      <Text>
+        ID Number
+      </Text>
+      <Text>
+        1234
+      </Text>
+    </View>
+    <View>
+      <Text>
+        Email
+      </Text>
+      <Text>
+        kida7kahp@gmail.com
+      </Text>
+    </View>
+    <View>
+      <Text>
+        Phone Number
+      </Text>
+      <Text>
+        0973886038
+      </Text>
+    </View>
+    <View>
+      <Text>
+        Date of Birth
+      </Text>
+      <Text>
+        01/01/1990
+      </Text>
+    </View>
+    <View>
+      <Text>
+        Purpose
+      </Text>
+      <Text>
+        loan
+      </Text>
+    </View>
+  </View>
+</View>
+`;
